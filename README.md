@@ -55,7 +55,7 @@ UI框架：Element-UI 2.6.3
 以本地（phpstudy集成环境）搭建举例：
 下载悟空CRM11.0开源版，在服务器根目录（www目录）下创建72crm文件夹，并放置代码； 浏览器访问
 
-`http://localhost/72crm/index.php/admin/install/index.html `
+`http://localhost/72crm/index.php/admin/install/index.html`
 
 根据安装提示步骤，完成悟空CRM11.0 的部署安装
 
@@ -78,7 +78,7 @@ UI框架：Element-UI 2.6.3
 
 ### 配置要求
 PHP >= 5.6.0 
-当访问 http://localhost/, 出现“悟空软件”即代表后端接口搭建成功。
+当访问http://localhost/, 出现“悟空软件”即代表后端接口搭建成功。
 ### 前端部署
 安装node.js 前端部分是基于node.js上运行的，所以必须先安装`node.js`，版本要求为6.0以上
 
